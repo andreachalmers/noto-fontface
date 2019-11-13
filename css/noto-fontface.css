@@ -1,0 +1,30 @@
+@font-face {
+  font-family: "Noto Sans";
+  src: url("../fonts/NotoSans/NotoSans-Regular.eot");
+  src: local("Noto Sans Regular"), local("NotoSans-Regular"), url("../fonts/NotoSans/NotoSans-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/NotoSans/NotoSans-Regular.woff2") format("woff2"), url("../fonts/NotoSans/NotoSans-Regular.woff") format("woff"), url("../fonts/NotoSans/NotoSans-Regular.ttf") format("truetype"), url("../fonts/NotoSans/NotoSans-Regular.svg#NotoSans-Regular") format("svg");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Noto Sans Hebrew";
+  src: url("../fonts/NotoSansHebrew/NotoSansHebrew-Regular.eot");
+  src: local("Noto Sans Hebrew Regular"), local("NotoSansHebrew-Regular"), url("../fonts/NotoSansHebrew/NotoSansHebrew-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/NotoSansHebrew/NotoSansHebrew-Regular.woff2") format("woff2"), url("../fonts/NotoSansHebrew/NotoSansHebrew-Regular.woff") format("woff"), url("../fonts/NotoSansHebrew/NotoSansHebrew-Regular.ttf") format("truetype"), url("../fonts/NotoSansHebrew/NotoSansHebrew-Regular.svg#NotoSansHebrew-Regular") format("svg");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Noto Sans Arabic";
+  src: url("../fonts/NotoSansArabic/NotoSansArabic-Regular.eot");
+  src: local("Noto Sans Arabic Regular"), local("NotoSansArabic-Regular"), url("../fonts/NotoSansArabic/NotoSansArabic-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/NotoSansArabic/NotoSansArabic-Regular.woff2") format("woff2"), url("../fonts/NotoSansArabic/NotoSansArabic-Regular.woff") format("woff"), url("../fonts/NotoSansArabic/NotoSansArabic-Regular.ttf") format("truetype"), url("../fonts/NotoSansArabic/NotoSansArabic-Regular.svg#NotoSansArabic-Regular") format("svg");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Noto Serif Thai";
+  src: url("../fonts/NotoSerifThai/NotoSerifThai-Regular.eot");
+  src: local("Noto Serif Thai Regular"), local("NotoSerifThai-Regular"), url("../fonts/NotoSerifThai/NotoSerifThai-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/NotoSerifThai/NotoSerifThai-Regular.woff2") format("woff2"), url("../fonts/NotoSerifThai/NotoSerifThai-Regular.woff") format("woff"), url("../fonts/NotoSerifThai/NotoSerifThai-Regular.ttf") format("truetype"), url("../fonts/NotoSerifThai/NotoSerifThai-Regular.svg#NotoSerifThai-Regular") format("svg");
+  font-weight: 400;
+  font-style: normal;
+}
+
+/*# sourceMappingURL=noto-fontface.css.map */

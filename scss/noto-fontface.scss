@@ -1,0 +1,5 @@
+@import 'mixins';
+@include noto-fontface('Noto Sans', 'NotoSans', 'Regular', 400, normal);
+@include noto-fontface('Noto Sans Hebrew', 'NotoSansHebrew', 'Regular', 400, normal);
+@include noto-fontface('Noto Sans Arabic', 'NotoSansArabic', 'Regular', 400, normal);
+@include noto-fontface('Noto Serif Thai', 'NotoSerifThai', 'Regular', 400, normal);

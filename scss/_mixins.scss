@@ -1,18 +1,16 @@
-$notosans-fontface-path: '../fonts' !default;
-
-@mixin notosans-fontface($type, $weight, $style) {
+$fontface-path: '../fonts' !default;
+@mixin noto-fontface($font-family, $font, $type, $weight, $style) {
     @font-face {
-        font-family: 'Noto Sans';
-        src: url('#{$notosans-fontface-path}/NotoSans-#{$type}.eot');
-        src: local('Noto Sans #{$type}'),
-             local('NotoSans-#{$type}'),
-             url('#{$notosans-fontface-path}/NotoSans-#{$type}.eot?#iefix') format('embedded-opentype'),
-             url('#{$notosans-fontface-path}/NotoSans-#{$type}.woff2') format('woff2'),
-             url('#{$notosans-fontface-path}/NotoSans-#{$type}.woff') format('woff'),
-             url('#{$notosans-fontface-path}/NotoSans-#{$type}.ttf') format('truetype'),
-             url('#{$notosans-fontface-path}/NotoSans-#{$type}.svg#NotoSans-#{$type}') format('svg');
+        font-family: '#{$font-family}';
+        src: url('#{$fontface-path}/#{$font}/#{$font}-#{$type}.eot');
+        src: local('#{$font-family} #{$type}'),
+             local('#{$font}-#{$type}'),
+             url('#{$fontface-path}/#{$font}/#{$font}-#{$type}.eot?#iefix') format('embedded-opentype'),
+             url('#{$fontface-path}/#{$font}/#{$font}-#{$type}.woff2') format('woff2'),
+             url('#{$fontface-path}/#{$font}/#{$font}-#{$type}.woff') format('woff'),
+             url('#{$fontface-path}/#{$font}/#{$font}-#{$type}.ttf') format('truetype'),
+             url('#{$fontface-path}/#{$font}/#{$font}-#{$type}.svg##{$font}-#{$type}') format('svg');
         font-weight: $weight;
         font-style: $style;
     }
 }
-
