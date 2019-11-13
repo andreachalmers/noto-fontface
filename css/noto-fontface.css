@@ -6,16 +6,30 @@
   font-style: normal;
 }
 @font-face {
-  font-family: "Noto Sans Hebrew";
-  src: url("../fonts/NotoSansHebrew/NotoSansHebrew-Regular.eot");
-  src: local("Noto Sans Hebrew Regular"), local("NotoSansHebrew-Regular"), url("../fonts/NotoSansHebrew/NotoSansHebrew-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/NotoSansHebrew/NotoSansHebrew-Regular.woff2") format("woff2"), url("../fonts/NotoSansHebrew/NotoSansHebrew-Regular.woff") format("woff"), url("../fonts/NotoSansHebrew/NotoSansHebrew-Regular.ttf") format("truetype"), url("../fonts/NotoSansHebrew/NotoSansHebrew-Regular.svg#NotoSansHebrew-Regular") format("svg");
+  font-family: "Noto Sans Arabic";
+  src: url("../fonts/NotoSansArabic/NotoSansArabic-Regular.eot");
+  src: local("Noto Sans Arabic Regular"), local("NotoSansArabic-Regular"), url("../fonts/NotoSansArabic/NotoSansArabic-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/NotoSansArabic/NotoSansArabic-Regular.woff2") format("woff2"), url("../fonts/NotoSansArabic/NotoSansArabic-Regular.woff") format("woff"), url("../fonts/NotoSansArabic/NotoSansArabic-Regular.ttf") format("truetype"), url("../fonts/NotoSansArabic/NotoSansArabic-Regular.svg#NotoSansArabic-Regular") format("svg");
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
-  font-family: "Noto Sans Arabic";
-  src: url("../fonts/NotoSansArabic/NotoSansArabic-Regular.eot");
-  src: local("Noto Sans Arabic Regular"), local("NotoSansArabic-Regular"), url("../fonts/NotoSansArabic/NotoSansArabic-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/NotoSansArabic/NotoSansArabic-Regular.woff2") format("woff2"), url("../fonts/NotoSansArabic/NotoSansArabic-Regular.woff") format("woff"), url("../fonts/NotoSansArabic/NotoSansArabic-Regular.ttf") format("truetype"), url("../fonts/NotoSansArabic/NotoSansArabic-Regular.svg#NotoSansArabic-Regular") format("svg");
+  font-family: "Noto Sans CJK JP";
+  src: url("../fonts/NotoSansCJKjp/NotoSansCJKjp-Regular.eot");
+  src: local("Noto Sans CJK JP Regular"), local("NotoSansCJKjp-Regular"), url("../fonts/NotoSansCJKjp/NotoSansCJKjp-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/NotoSansCJKjp/NotoSansCJKjp-Regular.woff2") format("woff2"), url("../fonts/NotoSansCJKjp/NotoSansCJKjp-Regular.woff") format("woff"), url("../fonts/NotoSansCJKjp/NotoSansCJKjp-Regular.ttf") format("truetype"), url("../fonts/NotoSansCJKjp/NotoSansCJKjp-Regular.svg#NotoSansCJKjp-Regular") format("svg");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Noto Sans CJK KR";
+  src: url("../fonts/NotoSansCJKkr/NotoSansCJKkr-Regular.eot");
+  src: local("Noto Sans CJK KR Regular"), local("NotoSansCJKkr-Regular"), url("../fonts/NotoSansCJKkr/NotoSansCJKkr-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/NotoSansCJKkr/NotoSansCJKkr-Regular.woff2") format("woff2"), url("../fonts/NotoSansCJKkr/NotoSansCJKkr-Regular.woff") format("woff"), url("../fonts/NotoSansCJKkr/NotoSansCJKkr-Regular.ttf") format("truetype"), url("../fonts/NotoSansCJKkr/NotoSansCJKkr-Regular.svg#NotoSansCJKkr-Regular") format("svg");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Noto Sans Hebrew";
+  src: url("../fonts/NotoSansHebrew/NotoSansHebrew-Regular.eot");
+  src: local("Noto Sans Hebrew Regular"), local("NotoSansHebrew-Regular"), url("../fonts/NotoSansHebrew/NotoSansHebrew-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/NotoSansHebrew/NotoSansHebrew-Regular.woff2") format("woff2"), url("../fonts/NotoSansHebrew/NotoSansHebrew-Regular.woff") format("woff"), url("../fonts/NotoSansHebrew/NotoSansHebrew-Regular.ttf") format("truetype"), url("../fonts/NotoSansHebrew/NotoSansHebrew-Regular.svg#NotoSansHebrew-Regular") format("svg");
   font-weight: 400;
   font-style: normal;
 }

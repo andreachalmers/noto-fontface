@@ -3,8 +3,8 @@
 A simple package providing the following fonts:
 * [Noto Sans](http://www.google.com/fonts/specimen/Noto+Sans)
 * [Noto Sans Arabic](https://www.google.com/get/noto/#sans-arab)
-* [Noto Sans CJKjp](https://www.google.com/get/noto/#sans-jpan)
-* [Noto Sans CJKkr](https://www.google.com/get/noto/#sans-kore)
+* [Noto Sans CJK JP](https://www.google.com/get/noto/#sans-jpan)
+* [Noto Sans CJK KR](https://www.google.com/get/noto/#sans-kore)
 * [Noto Sans Hebrew](https://www.google.com/get/noto/#sans-hebr)
 * [Noto Serif Thai](https://www.google.com/get/noto/#serif-thai)
 
