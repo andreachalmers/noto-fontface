@@ -1,0 +1,19 @@
+{
+  "name": "noto-fontface",
+  "version": "1.0.0",
+  "description": "A simple package providing the Noto Sans fontface.",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andreachalmers/noto-fontface"
+  },
+  "keywords": [
+    "noto sans",
+    "notosans",
+    "font",
+    "fontface"
+  ],
+  "devDependencies": {
+    "node-sass": "^4.7.2"
+  }
+}

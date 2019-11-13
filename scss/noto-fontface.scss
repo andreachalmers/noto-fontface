@@ -1,0 +1,7 @@
+@import 'mixins';
+@include noto-fontface('Noto Sans', 'NotoSans');
+@include noto-fontface('Noto Sans Arabic', 'NotoSansArabic');
+@include noto-fontface('Noto Sans CJK JP', 'NotoSansCJKjp');
+@include noto-fontface('Noto Sans CJK KR', 'NotoSansCJKkr');
+@include noto-fontface('Noto Sans Hebrew', 'NotoSansHebrew');
+@include noto-fontface('Noto Serif Thai', 'NotoSerifThai');

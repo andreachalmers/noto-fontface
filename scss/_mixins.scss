@@ -1,0 +1,16 @@
+$fontface-path: '../fonts' !default;
+@mixin noto-fontface($font-family, $font, $type: 'Regular', $weight: 400, $style: normal) {
+    @font-face {
+        font-family: '#{$font-family}';
+        src: url('#{$fontface-path}/#{$font}/#{$font}-#{$type}.eot');
+        src: local('#{$font-family} #{$type}'),
+             local('#{$font}-#{$type}'),
+             url('#{$fontface-path}/#{$font}/#{$font}-#{$type}.eot?#iefix') format('embedded-opentype'),
+             url('#{$fontface-path}/#{$font}/#{$font}-#{$type}.woff2') format('woff2'),
+             url('#{$fontface-path}/#{$font}/#{$font}-#{$type}.woff') format('woff'),
+             url('#{$fontface-path}/#{$font}/#{$font}-#{$type}.ttf') format('truetype'),
+             url('#{$fontface-path}/#{$font}/#{$font}-#{$type}.svg##{$font}-#{$type}') format('svg');
+        font-weight: $weight;
+        font-style: $style;
+    }
+}
