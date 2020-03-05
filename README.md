@@ -1,4 +1,4 @@
-# Noto fontface
+# Noto fontface 
 
 A simple package providing the following fonts:
 * [Noto Sans](http://www.google.com/fonts/specimen/Noto+Sans)
@@ -16,7 +16,7 @@ npm install noto-fontface --save
 
 ## Usage
 
-Import one of the following in your project to have access to "Noto" fontface:
+Import one of the following in your project to have access to `Noto` fontface:
 
 * `css/noto-fontface.css` - whole font family compiled into CSS
 * `css/noto-fontface.min.css` - whole font family (minified CSS)
